@@ -1,0 +1,36 @@
+.counter-container {
+  background-color: white;
+  border: 5px;
+  border-color: black, 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-family: "Roboto";
+}
+.count-heading {
+  font-size: 25px;
+}
+.count {
+  font-size: 55px;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 5px;
+  padding: 10px;
+}
+.button {
+  padding: 5px;
+  background-color: blue;
+  border-color: orange;
+  margin: 10px;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+}
